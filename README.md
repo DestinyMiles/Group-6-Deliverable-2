@@ -39,7 +39,7 @@ It produces risk alerts with supporting evidence and recommendations for human r
 Analyze the clean sample:
 
 ```bash
-python3 analyzer.py "session-01(clean).jsonl"
+python3 analyzer.py session-01(clean).jsonl
 ```
 
 Analyze the poisoned sample:
